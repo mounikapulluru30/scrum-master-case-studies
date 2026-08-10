@@ -1,0 +1,8 @@
+flowchart LR
+A[Refinement] --> B[Development]
+B --> C[Review]
+C --> D[Testing]
+D --> E[Done]
+D -. late handoff .-> F[Rework]
+F --> B
+style F stroke-dasharray: 5 5

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#f7f7f7"/>
+<text x="700" y="120" text-anchor="middle" font-family="Arial" font-size="48" font-weight="700">Scrum Master Problem-Solving Framework</text>
+<g font-family="Arial" text-anchor="middle">
+<rect x="100" y="300" width="180" height="90" rx="18" fill="#ffffff" stroke="#333" stroke-width="3"/><text x="190" y="355" font-size="26">Observe</text>
+<rect x="350" y="300" width="180" height="90" rx="18" fill="#ffffff" stroke="#333" stroke-width="3"/><text x="440" y="355" font-size="26">Inspect</text>
+<rect x="600" y="300" width="180" height="90" rx="18" fill="#ffffff" stroke="#333" stroke-width="3"/><text x="690" y="355" font-size="26">Find Root Cause</text>
+<rect x="850" y="300" width="180" height="90" rx="18" fill="#ffffff" stroke="#333" stroke-width="3"/><text x="940" y="355" font-size="26">Enable</text>
+<rect x="1100" y="300" width="180" height="90" rx="18" fill="#ffffff" stroke="#333" stroke-width="3"/><text x="1190" y="355" font-size="26">Improve</text>
+<line x1="280" y1="345" x2="350" y2="345" stroke="#333" stroke-width="4"/><polygon points="350,345 335,337 335,353" fill="#333"/>
+<line x1="530" y1="345" x2="600" y2="345" stroke="#333" stroke-width="4"/><polygon points="600,345 585,337 585,353" fill="#333"/>
+<line x1="780" y1="345" x2="850" y2="345" stroke="#333" stroke-width="4"/><polygon points="850,345 835,337 835,353" fill="#333"/>
+<line x1="1030" y1="345" x2="1100" y2="345" stroke="#333" stroke-width="4"/><polygon points="1100,345 1085,337 1085,353" fill="#333"/>
+<text x="700" y="520" font-size="28">Experiment → Measure → Inspect → Adapt</text>
+<text x="700" y="600" font-size="24">Outcome-focused • Evidence-based • Team-centered</text>
+</g>
+</svg>
