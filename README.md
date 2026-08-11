@@ -283,7 +283,7 @@ Sprint Capacity
 The team and Product Owner can then discuss whether the Sprint commitment reflects reality.
 
 If recurring support work is significant, I would facilitate discussion around an appropriate team-level strategy rather than allowing hidden work to distort Sprint commitments.
-```
+
 
 ## 11. Step 6 — Improve Cross-Functional Collaboration
 
