@@ -283,6 +283,8 @@ Sprint Capacity
 The team and Product Owner can then discuss whether the Sprint commitment reflects reality.
 
 If recurring support work is significant, I would facilitate discussion around an appropriate team-level strategy rather than allowing hidden work to distort Sprint commitments.
+```
+
 ## 11. Step 6 — Improve Cross-Functional Collaboration
 
 If development and QA are working sequentially, I would encourage earlier collaboration.
@@ -311,14 +313,15 @@ and
 
 I would focus the retrospective on the recurring Sprint Goal problem.
 
-Example retrospective questions
-What prevented us from achieving the Sprint Goal?
-Which issues repeated across all three Sprints?
-Which problem had the highest impact?
-What was within our control?
-What should we stop doing?
-What should we start doing?
-What is one experiment we can run in the next Sprint?
+### Example Retrospective Questions
+
+- What prevented us from achieving the Sprint Goal?
+- Which issues repeated across all three Sprints?
+- Which problem had the highest impact?
+- What was within our control?
+- What should we stop doing?
+- What should we start doing?
+- What is one experiment we can run in the next Sprint?
 
 The objective is to leave the retrospective with one or two actionable experiments, rather than a long list of actions.
 
