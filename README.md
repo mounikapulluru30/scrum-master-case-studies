@@ -110,7 +110,7 @@ These observations suggest that **estimation accuracy may not be the primary pro
 
 ---
 
-# 5. Root Cause Analysis
+## 5. Root Cause Analysis
 
 I would facilitate a collaborative root-cause analysis with the Scrum Team rather than diagnosing the problem alone.
 
@@ -155,7 +155,7 @@ The stronger hypothesis is:
 
 ---
 
-# 6. Scrum Master's Assessment
+## 6. Scrum Master's Assessment
 
 My assessment would be:
 
@@ -174,9 +174,9 @@ Instead, I would help the team identify the **systemic constraints affecting Spr
 
 ---
 
-# 7. Proposed Scrum Master Approach
+## 7. Proposed Scrum Master Approach
 
-## Step 1 — Reconnect the Team With the Sprint Goal
+### Step 1 — Reconnect the Team With the Sprint Goal
 
 During Sprint Planning, I would facilitate discussion around:
 
@@ -196,7 +196,7 @@ Move toward:
 
 ---
 
-## Step 2 — Improve Story Slicing
+### Step 2 — Improve Story Slicing
 
 I would coach the team and Product Owner on splitting oversized stories into smaller, valuable increments.
 
@@ -220,7 +220,7 @@ within the Sprint instead of accumulating partially completed work.
 
 ---
 
-# 8. Step 3 — Strengthen Product Backlog Refinement
+## 8. Step 3 — Strengthen Product Backlog Refinement
 
 I would facilitate refinement around:
 
@@ -241,7 +241,7 @@ This shifts refinement from simply discussing requirements to **identifying deli
 
 ---
 
-# 9. Step 4 — Make Dependencies Visible
+## 9. Step 4 — Make Dependencies Visible
 
 I would introduce a simple dependency discussion during refinement and Sprint Planning.
 
@@ -260,7 +260,7 @@ The goal is to make important dependencies **visible before they become blockers
 
 ---
 
-# 10. Step 5 — Make Unplanned Work Visible
+## 10. Step 5 — Make Unplanned Work Visible
 
 If support or production work regularly enters the Sprint, I would not simply ignore it.
 
