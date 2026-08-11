@@ -114,7 +114,7 @@ These observations suggest that **estimation accuracy may not be the primary pro
 
 I would facilitate a collaborative root-cause analysis with the Scrum Team rather than diagnosing the problem alone.
 
-## 5.1 Example 5 Whys
+### 5.1 Example 5 Whys
 
 ### Problem
 
