@@ -366,6 +366,7 @@ Make unplanned work visible.
 Encourage earlier development-QA collaboration.
 Track carryover and blocked time.
 Discuss Sprint Goal progress during Daily Scrum.
+
 Experiment duration
 
 1 Sprint
