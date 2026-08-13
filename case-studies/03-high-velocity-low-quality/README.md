@@ -192,7 +192,7 @@ For the next **2–3 Sprints**, the team could:
 
 Compare the relevant quality signals before and after the experiment.
 
-```text
+
 Problem
    ↓
 Hypothesis
