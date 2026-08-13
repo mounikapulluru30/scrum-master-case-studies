@@ -192,18 +192,7 @@ For the next **2–3 Sprints**, the team could:
 
 Compare the relevant quality signals before and after the experiment.
 
-```text
-Problem
-   ↓
-Hypothesis
-   ↓
-Experiment
-   ↓
-Measure
-   ↓
-Inspect
-   ↓
-Adapt
+**Problem → Hypothesis → Experiment → Measure → Inspect → Adapt**
 
 ## 8. Expected Outcome:
 
@@ -254,7 +243,7 @@ The focus should remain on **sustainable delivery of a valuable, usable Incremen
 
 ---
 
-## 11. Visual:
+## 11. Visual
 
 ```mermaid
 flowchart LR
@@ -266,6 +255,7 @@ E --> F[Improvement Experiment]
 F --> G[Measure Outcomes]
 G --> H[Inspect & Adapt]
 C -- No --> I[Continue Monitoring]
+```
 
 ## 12. Portfolio Takeaway:
 
