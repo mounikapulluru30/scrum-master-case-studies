@@ -129,25 +129,32 @@ The team would agree on **one small, measurable experiment** rather than introdu
 ### Example
 
 **Problem:**
+
 The same communication issue has appeared in three consecutive retrospectives.
 
 **Hypothesis:**
+
 If the team introduces a short daily dependency/communication check, then unresolved communication issues will be identified earlier.
 
 **Experiment:**
+
 For the next two Sprints, spend five minutes during the Daily Scrum explicitly identifying cross-team communication risks.
 
 **Measure:**
+
 Track the number of communication-related impediments that remain unresolved at Sprint end.
 
 **Inspect:**
+
 Review the result during the next Retrospective.
 
 **Adapt:**
+
 Continue, modify, or stop the experiment based on what the team learns.
 
 ```text
 Problem → Hypothesis → Experiment → Measure → Inspect → Adapt
+```
 
 ## 8. Expected Outcome
 
