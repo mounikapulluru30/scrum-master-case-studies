@@ -178,21 +178,23 @@ A Scrum Master should therefore avoid forcing participation and instead create t
 ## 11. Visual
 
 ```mermaid
+
 flowchart TD
-A[Low Engagement / Recurring Issues] --> B[Inspect Why]
-B --> C{Psychological Safety / Format / Follow-through?}
+A[Low Engagement] --> B[Inspect Why]
+B --> C{Identify Cause}
 C --> D[Create Safer Participation]
 C --> E[Adapt Facilitation]
-C --> F[Inspect Previous Actions]
-D --> G[Select One Systemic Problem]
+C --> F[Review Previous Actions]
+D --> G[Select One Problem]
 E --> G
 F --> G
 G --> H[Run Small Experiment]
 H --> I[Measure Result]
-I --> J[Review Next Retrospective]
-J --> K{Improvement Observed?}
-K -- Yes --> L[Continue / Expand]
-K -- No --> M[Adapt or Try Another Experiment]
+I --> J[Review Next Sprint]
+J --> K{Improvement?}
+K -- Yes --> L[Continue]
+K -- No --> M[Adapt Experiment]
+
 ```
 
 ## 12. Portfolio Takeaway
