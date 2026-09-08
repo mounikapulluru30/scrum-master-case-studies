@@ -188,7 +188,7 @@ Instead, the Scrum Master facilitates transparency, removes impediments, and hel
 
 "If a critical production issue occurred during the Sprint, I would first understand its severity and confirm whether it genuinely requires immediate action. I would make the incident and its impact visible to the Product Owner and Developers, then facilitate a discussion about the Sprint Goal and necessary trade-offs. If the emergency requires immediate attention, the team should respond rather than follow a rigid rule that nothing can change during a Sprint. The Sprint Backlog can be adapted based on what we learn, while the Sprint Goal remains the focus. After the incident, I would encourage the team to inspect the root causes and identify a measurable improvement experiment to reduce recurrence."
 
-## 11.Visual
+## 11. Visual
 ```mermaid
 flowchart TD
 A[Production Incident] --> B[Assess Severity]
