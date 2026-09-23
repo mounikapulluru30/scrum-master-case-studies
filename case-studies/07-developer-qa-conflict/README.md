@@ -291,5 +291,3 @@ I --> F
 This case demonstrates how a Scrum Master can use a quality-focused perspective to improve team collaboration without taking ownership of the QA or Development function.
 
 ---
-
-> **Portfolio Note:** This case study is a realistic simulation created to demonstrate Scrum Master problem-solving, facilitation, and continuous-improvement thinking. It does not represent specific client, employer, or production experience.
