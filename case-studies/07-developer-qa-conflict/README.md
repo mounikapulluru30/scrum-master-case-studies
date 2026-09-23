@@ -256,11 +256,13 @@ G -- No --> H[Done]
 G -- Yes --> I[Developer Fix]
 I --> F
 
+---
+
 ### Key Idea
 
 **Earlier collaboration + shorter feedback loops → smoother flow toward Done**
 
----
+
 
 ## 12. Portfolio Takeaway
 
