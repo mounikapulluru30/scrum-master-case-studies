@@ -255,31 +255,32 @@ F --> G{Defect Found?}
 G -- No --> H[Done]
 G -- Yes --> I[Developer Fix]
 I --> F
-
----
+```
 
 ### Key Idea
 
 **Earlier collaboration + shorter feedback loops → smoother flow toward Done**
 
-
+---
 
 ## 12. Portfolio Takeaway
 
 ### What This Case Demonstrates
 
 **Primary Skills**
-- Conflict Resolution
-- Facilitation
-- Systems Thinking
-- Quality Collaboration
+
+* Conflict Resolution
+* Facilitation
+* Systems Thinking
+* Quality Collaboration
 
 **Supporting Skills**
-- Workflow Analysis
-- Continuous Improvement
-- Metrics
-- Cross-functional Collaboration
-- Coaching
+
+* Workflow Analysis
+* Continuous Improvement
+* Metrics
+* Cross-functional Collaboration
+* Coaching
 
 ### Scrum Master Mindset
 
