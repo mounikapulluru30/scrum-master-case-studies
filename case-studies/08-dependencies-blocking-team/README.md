@@ -307,5 +307,3 @@ A Scrum Master does not need to personally coordinate every dependency.
 The goal is to help the team and organization build better collaboration, transparency, and flow so that dependencies can be addressed before they become Sprint-level surprises.
 
 ---
-
-> **Portfolio Note:** This case study is a realistic simulation created to demonstrate Scrum Master problem-solving, dependency management, facilitation, and continuous-improvement thinking. It does not represent specific client, employer, or production experience.
