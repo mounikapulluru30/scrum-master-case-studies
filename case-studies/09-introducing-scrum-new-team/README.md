@@ -324,5 +324,3 @@ The objective is not simply **Scrum compliance**.
 The objective is to help the team become increasingly capable of **self-management, inspection, adaptation, and delivering valuable outcomes**.
 
 ---
-
-> **Portfolio Note:** This case study is a realistic simulation created to demonstrate Scrum Master coaching, Scrum adoption, facilitation, and continuous-improvement thinking. It does not represent specific client, employer, or production experience.
