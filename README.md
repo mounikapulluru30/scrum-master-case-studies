@@ -1,508 +1,407 @@
-# Recovering a Team That Keeps Missing Sprint Goals
+# 🚀 Scrum Master Case Studies
 
-**Primary Skills:** Facilitation • Root Cause Analysis • Coaching • Metrics • Continuous Improvement
+### Practical Scrum Master Scenarios | Agile Delivery | Facilitation | Coaching | Metrics | Continuous Improvement
 
-> ## 📌 Portfolio Simulation
+A portfolio of **scenario-based Scrum Master case studies** demonstrating how I approach realistic Agile and Scrum challenges through facilitation, coaching, inspection, adaptation, collaboration, and continuous improvement.
+
+> **📌 Portfolio Disclaimer**
 >
-> **Scenario-based case study — not a claim of specific client, employer, or production experience.**
->
-> This simulation demonstrates how I would approach a Scrum Team that has missed its Sprint Goal for three consecutive Sprints. The metrics and outcomes presented are illustrative and are intended to demonstrate my Scrum Master problem-solving approach.
+> These case studies are realistic simulations created for learning and portfolio demonstration. They do **not** represent specific client, employer, or production project experience. Metrics, scenarios, and outcomes are illustrative unless explicitly stated otherwise.
 
 ---
 
-## 1. Scenario
+## 🎯 What This Portfolio Demonstrates
 
-A Scrum Team has missed its Sprint Goal for three consecutive Sprints, even though estimates appear reasonably consistent.
+The case studies explore practical Scrum Master capabilities including:
 
-The team is completing a significant amount of work, but the **Sprint Goal is repeatedly not achieved**.
+* Scrum event facilitation
+* Sprint Goal focus
+* Team coaching
+* Stakeholder collaboration
+* Product Owner collaboration
+* Impediment removal
+* Risk and dependency management
+* Agile metrics
+* Quality and flow
+* Conflict facilitation
+* Continuous improvement
+* Scaling Agile practices
+* AI-assisted Scrum Master activities
 
-This creates concerns around:
-
-- Predictability
-- Stakeholder confidence
-- Sprint Planning effectiveness
-- Team focus
-- Quality
-- Sustainable delivery
-
-The Scrum Master's objective is **not simply to increase velocity**.
-
-The objective is to understand why the team is repeatedly failing to achieve valuable Sprint outcomes and help the team improve its ability to deliver toward a meaningful Sprint Goal.
-
----
-
-## 2. Business / Delivery Impact
-
-Repeatedly missing Sprint Goals can lead to:
-
-- Reduced stakeholder confidence
-- Increasing carryover between Sprints
-- More pressure during Sprint Planning
-- Teams optimizing for individual task completion rather than the Sprint Goal
-- Increased context switching
-- Late discovery of dependencies
-- Testing and integration being pushed toward the end of the Sprint
-- Reduced ability to forecast near-term outcomes
-
-The Scrum Master should therefore focus on **systemic causes rather than blaming individual team members**.
+The objective is to demonstrate **how I would think through realistic delivery situations as a Scrum Master**, rather than simply describing Scrum theory.
 
 ---
 
-## 3. What I Would Inspect
+# 📚 Case Studies
 
-Before proposing solutions, I would inspect the team's recent Sprint data and facilitate discussion around the following areas.
+### 01 — Missed Sprint Goals
 
-### Delivery Signals
+**Focus:** Sprint Goals • Root Cause Analysis • Facilitation • Continuous Improvement
 
-- Sprint Goal achievement
-- Planned vs. completed work
-- Carryover work
-- Unplanned work
-- Blocked time
-- Dependency-related delays
-- Work added after Sprint Planning
+A Scrum Team repeatedly struggles to achieve its Sprint Goals.
 
-### Product Backlog Signals
+**Skills demonstrated:**
 
-- Story size
-- Story splitting
-- Acceptance criteria
-- Refinement quality
-- Dependency visibility
-- Technical uncertainty
-- Product Owner availability
+* Inspecting Sprint performance
+* Identifying underlying causes
+* Facilitating focused retrospectives
+* Addressing blockers and dependencies
+* Supporting realistic Sprint planning
+* Creating improvement experiments
 
-### Team / Flow Signals
-
-- Work in Progress
-- Handoffs
-- Waiting time
-- Testing bottlenecks
-- Code review delays
-- Integration delays
-- Collaboration patterns
-
-### Quality Signals
-
-- Defects found during the Sprint
-- Regression issues
-- Rework
-- Escaped defects
-- Definition of Done adherence
-
-> **Important:** I would avoid using velocity alone as evidence of team performance.
+👉 **[Read Case Study 1](./case-studies/01-missed-sprint-goals/)**
 
 ---
 
-## 4. Initial Observations
+### 02 — Product Owner Priority Changes
 
-For this simulation, assume the following patterns are identified:
+**Focus:** Coaching • Stakeholder Management • Sprint Focus
 
-1. Several stories are carried over between Sprints.
-2. Unplanned production/support work frequently enters the Sprint.
-3. Some stories are too large to complete comfortably within one Sprint.
-4. Dependencies are discovered after Sprint Planning.
-5. Testing activity is concentrated toward the end of the Sprint.
-6. Team members sometimes optimize for completing individual tasks instead of achieving the Sprint Goal.
-7. The Sprint Goal is sometimes too broad to provide a clear focus.
+A Product Owner repeatedly changes priorities during the Sprint.
 
-These observations suggest that **estimation accuracy may not be the primary problem**.
+**Skills demonstrated:**
 
----
+* Coaching rather than enforcing
+* Protecting Sprint focus
+* Making trade-offs transparent
+* Facilitating Product Owner–Developer collaboration
+* Managing changing priorities
 
-## 5. Root Cause Analysis
-
-I would facilitate a collaborative root-cause analysis with the Scrum Team rather than diagnosing the problem alone.
-
-### 5.1 Example 5 Whys
-
-### Problem
-
-**The team repeatedly misses the Sprint Goal.**
-
-**Why 1:**  
-Why is the Sprint Goal not achieved?
-
-→ Multiple items remain incomplete at the end of the Sprint.
-
-**Why 2:**  
-Why do multiple items remain incomplete?
-
-→ Stories are larger than expected, dependencies emerge, and unplanned work interrupts the Sprint.
-
-**Why 3:**  
-Why are these issues discovered during the Sprint?
-
-→ Refinement and dependency identification are not consistently uncovering risks before Sprint Planning.
-
-**Why 4:**  
-Why isn't refinement identifying these risks early?
-
-→ Some stories lack sufficient acceptance criteria, technical understanding, or cross-functional discussion.
-
-**Why 5:**  
-Why does this continue?
-
-→ The team has not established a consistent feedback loop for learning from carryover, blocked work, and Sprint Goal failures.
-
-### Root Cause Hypothesis
-
-The primary issue is not necessarily inaccurate estimation.
-
-The stronger hypothesis is:
-
-> **Insufficient focus on Sprint Goal clarity, work slicing, dependency visibility, refinement quality, and managing unplanned work.**
+👉 **[Read Case Study 2](./case-studies/02-po-priority-changes/)**
 
 ---
 
-## 6. Scrum Master's Assessment
+### 03 — High Velocity, Low Quality
 
-My assessment would be:
+**Focus:** Quality • Metrics • Inspection & Adaptation
 
-> **The team does not primarily need better estimation. It needs better inspection and adaptation around how work enters, flows through, and exits the Sprint.**
+A team's velocity appears to be improving while quality problems and rework increase.
 
-I would avoid immediately:
+**Skills demonstrated:**
 
-- Increasing estimates
-- Reducing velocity targets
-- Blaming developers or testers
-- Asking the team to "work harder"
-- Comparing individual performance
-- Using velocity as a productivity target
+* Understanding the limitations of velocity
+* Using quality metrics
+* Examining defects and rework
+* Strengthening the Definition of Done
+* Balancing delivery and quality
+* Supporting evidence-based improvement
 
-Instead, I would help the team identify the **systemic constraints affecting Sprint Goal achievement**.
-
----
-
-## 7. Proposed Scrum Master Approach
-
-### Step 1 — Reconnect the Team With the Sprint Goal
-
-During Sprint Planning, I would facilitate discussion around:
-
-> **"What valuable outcome are we trying to achieve this Sprint?"**
-
-Rather than treating the Sprint Backlog as a list of unrelated tasks, I would encourage the team to understand how the selected work contributes to the Sprint Goal.
-
-### Desired behavior
-
-Instead of:
-
-> "I completed my assigned tickets."
-
-Move toward:
-
-> "What does the team need to do to achieve the Sprint Goal?"
+👉 **[Read Case Study 3](./case-studies/03-high-velocity-low-quality/)**
 
 ---
 
-### Step 2 — Improve Story Slicing
+### 04 — Retrospective Resistance
 
-I would coach the team and Product Owner on splitting oversized stories into smaller, valuable increments.
+**Focus:** Facilitation • Team Engagement • Continuous Improvement
 
-Possible techniques include:
+A team shows resistance toward participating meaningfully in Sprint Retrospectives.
 
-- Split by workflow
-- Split by business rule
-- Split by user role
-- Split by happy path / alternative path
-- Split by data variation
-- Split by CRUD operation where appropriate
-- Separate technical risk from functional delivery
+**Skills demonstrated:**
 
-### Goal
+* Creating a safe environment
+* Understanding the reasons behind resistance
+* Adapting facilitation techniques
+* Encouraging meaningful participation
+* Turning retrospective discussions into actionable improvements
 
-Create work items that can move through:
-
-**Development → Review → Testing → Done**
-
-within the Sprint instead of accumulating partially completed work.
+👉 **[Read Case Study 4](./case-studies/04-retrospective-resistance/)**
 
 ---
 
-## 8. Step 3 — Strengthen Product Backlog Refinement
+### 05 — Stakeholder Interference
 
-I would facilitate refinement around:
+**Focus:** Stakeholder Management • Facilitation • Team Autonomy
 
-- Clear acceptance criteria
-- Dependencies
-- Technical risks
-- External dependencies
-- Testability
-- Story size
-- Business value
-- Definition of Ready, where the team finds it useful
+External stakeholders interfere with the team's work and create challenges for delivery.
 
-I would encourage the team to ask:
+**Skills demonstrated:**
 
-> **"What could prevent this item from reaching Done within the Sprint?"**
+* Facilitating stakeholder conversations
+* Making impacts transparent
+* Protecting team focus
+* Coaching stakeholders
+* Supporting effective collaboration
 
-This shifts refinement from simply discussing requirements to **identifying delivery risks early**.
+👉 **[Read Case Study 5](./case-studies/05-stakeholder-interference/)**
 
 ---
 
-## 9. Step 4 — Make Dependencies Visible
+### 06 — Production Emergency
 
-I would introduce a simple dependency discussion during refinement and Sprint Planning.
+**Focus:** Incident Management • Scrum Principles • Prioritization
 
-For example:
+A production emergency creates pressure to interrupt planned Sprint work.
 
-| Dependency | Owner | Risk | Mitigation |
-|---|---|---|---|
-| API availability | Backend Team | High | Confirm before Sprint |
-| Test environment | QA/DevOps | Medium | Validate environment |
-| External approval | Business Stakeholder | Medium | Identify approver early |
-| Third-party service | External Team | High | Track dependency |
+**Skills demonstrated:**
 
-The goal is not to create excessive documentation.
+* Understanding urgency and impact
+* Facilitating trade-off discussions
+* Collaborating with the Product Owner and Developers
+* Maintaining transparency
+* Balancing immediate response with Sprint Goals
+* Inspecting and adapting based on the situation
 
-The goal is to make important dependencies **visible before they become blockers**.
+👉 **[Read Case Study 6](./case-studies/06-production-emergency/)**
 
 ---
 
-## 10. Step 5 — Make Unplanned Work Visible
+### 07 — Developer–QA Conflict
 
-If support or production work regularly enters the Sprint, I would not simply ignore it.
+**Focus:** Conflict Facilitation • Collaboration • Quality • Team Effectiveness
 
-I would help the team visualize:
+Conflict between Developers and QA begins affecting collaboration and delivery.
 
-**Planned Work + Unplanned Work = Actual Capacity Consumption**
+**Skills demonstrated:**
 
-For example:
+* Facilitating difficult conversations
+* Avoiding blame
+* Identifying underlying causes
+* Building shared ownership of quality
+* Improving cross-functional collaboration
+* Supporting a team-oriented approach to delivery
 
-```text
-Sprint Capacity
-│
-├── Planned Product Work       75%
-│
-├── Support / Unplanned Work   15%
-│
-└── Other Interruptions        10%
-```
+👉 **[Read Case Study 7](./case-studies/07-developer-qa-conflict/)**
 
-The team and Product Owner can then discuss whether the Sprint commitment reflects reality.
+---
 
-If recurring support work is significant, I would facilitate discussion around an appropriate team-level strategy rather than allowing hidden work to distort Sprint commitments.
+### 08 — Dependencies Blocking the Team
 
+**Focus:** Dependency Management • Impediment Removal • Stakeholder Collaboration
 
-## 11. Step 6 — Improve Cross-Functional Collaboration
+External dependencies repeatedly prevent the Scrum Team from progressing.
 
-If development and QA are working sequentially, I would encourage earlier collaboration.
+**Skills demonstrated:**
 
-Instead of:
+* Making dependencies visible
+* Identifying dependency owners
+* Assessing delivery risks
+* Facilitating cross-team collaboration
+* Escalating when appropriate
+* Addressing systemic impediments
 
-Development → Development → Development → QA → Bug Fix → Retest
+👉 **[Read Case Study 8](./case-studies/08-dependencies-blocking-team/)**
 
-encourage:
+---
 
-Story A → Develop → Review → Test → Done
-Story B → Develop → Review → Test → Done
-Story C → Develop → Review → Test → Done
+### 09 — Introducing Scrum to a New Team
 
-This supports earlier feedback and reduces the risk of discovering multiple issues immediately before the Sprint ends.
+**Focus:** Scrum Adoption • Coaching • Facilitation • Team Development
 
-## 12. Step 7 — Facilitate a Focused Retrospective
+A new team is beginning its journey with Scrum.
 
-Rather than asking:
+**Skills demonstrated:**
 
-"What went well?"
+* Introducing Scrum concepts
+* Establishing a shared understanding
+* Coaching Scrum accountabilities
+* Facilitating Scrum events
+* Supporting team development
+* Encouraging empiricism and self-management
 
-and
+👉 **[Read Case Study 9](./case-studies/09-introducing-scrum-new-team/)**
 
-"What didn't go well?"
+---
 
-I would focus the retrospective on the recurring Sprint Goal problem.
+### 10 — Scaling Agile Across Multiple Teams
 
-### Example Retrospective Questions
+**Focus:** Scaling • Dependencies • Coordination • Delivery
 
-- What prevented us from achieving the Sprint Goal?
-- Which issues repeated across all three Sprints?
-- Which problem had the highest impact?
-- What was within our control?
-- What should we stop doing?
-- What should we start doing?
-- What is one experiment we can run in the next Sprint?
+Multiple teams need to coordinate their work while dealing with dependencies and shared delivery goals.
 
-The objective is to leave the retrospective with one or two actionable experiments, rather than a long list of actions.
+**Skills demonstrated:**
 
-## 13. Illustrative Metrics
+* Cross-team collaboration
+* Dependency management
+* Coordination challenges
+* Delivery transparency
+* Communication across teams
+* Identifying systemic impediments
 
-Note: The following numbers are illustrative and created specifically for this portfolio simulation. They do not represent actual project data.
+👉 **[Read Case Study 10](./case-studies/10-scaling-agile-multiple-teams/)**
 
-Before Improvement
-| Metric | Sprint 1 | Sprint 2 | Sprint 3 |
-|---|---:|---:|---:|
-| Planned Story Points | 32 | 30 | 31 |
-| Completed Story Points | 22 | 21 | 23 |
-| Carryover | 10 | 9 | 8 |
-| Unplanned Work | 5 | 6 | 7 |
-| Sprint Goal | ❌ | ❌ | ❌ |
+---
 
-Key observation
+### 11 — AI-Assisted Scrum Master
 
-The issue is not simply that completed points are low.
+**Focus:** AI + Scrum • Metrics • Facilitation • Human Validation
 
-The more important signals are:
+A scenario exploring how AI can support Scrum Master activities such as Sprint analysis, retrospectives, blockers, action items, and Agile metrics.
 
-High carryover
-Increasing unplanned work
-Repeated Sprint Goal failure
-Potentially oversized stories
-Late discovery of blockers
+**Skills demonstrated:**
 
-## 14. Improvement Experiment
+* AI-assisted analysis
+* Agile metrics interpretation
+* Retrospective preparation
+* Identifying patterns and improvement opportunities
+* Generating questions and insights
+* Human and context validation
+* Responsible use of AI
 
-For the next Sprint, I would propose a focused experiment.
+### AI Approach
 
-Experiment
+**Generate → Inspect → Identify Gaps → Adapt → Improve**
 
-Improve Sprint Goal achievement by reducing work-in-progress and making dependencies visible earlier.
+The goal is not to blindly accept AI-generated recommendations.
 
-Actions
-Define a concise Sprint Goal.
-Split oversized stories.
-Review dependencies during refinement.
-Make unplanned work visible.
-Encourage earlier development-QA collaboration.
-Track carryover and blocked time.
-Discuss Sprint Goal progress during Daily Scrum.
+AI output should be reviewed against **Scrum principles, available evidence, team context, and human judgment** before being used.
 
-Experiment duration
+👉 **[Read Case Study 11](./case-studies/11-ai-assisted-scrum-master/)**
 
-1 Sprint
+---
 
-The team should treat this as an experiment rather than a permanent process change.
+# 🧠 My Scrum Master Approach
 
-## 15. Illustrative Expected Results
+Across these case studies, I follow an **inspection-and-adaptation mindset**.
 
-These are target outcomes for the simulation, not claims of actual project results.
+### 1. Make the problem visible
 
-| Metric | Before | Illustrative Target |
-|---|---:|---:|
-| Sprint Goal Achievement | 0/3 | 1/1 next Sprint |
-| Carryover | 8–10 SP | ≤ 2–3 SP |
-| Unplanned Work | 5–7 SP | ≤ 2–3 SP |
-| Dependency Discovery | Often during Sprint | Primarily during refinement |
-| Large Stories | Frequent | Reduced |
-| Late Testing | Frequent | Reduced |
+Understand what is actually happening before jumping to a solution.
 
-The goal is not to optimize every metric simultaneously.
+### 2. Inspect the situation
 
-The primary success criterion is:
+Consider:
 
-The team consistently achieves a meaningful Sprint Goal with sustainable flow and quality.
+* Team behaviour
+* Workflow
+* Sprint Goals
+* Dependencies
+* Product Backlog
+* Quality
+* Metrics
+* Stakeholder interactions
+* Organizational factors
 
-## 16. Definition of Success
+### 3. Facilitate understanding
 
-I would consider the intervention successful if the team demonstrates:
+Help the Scrum Team and relevant stakeholders explore the situation collaboratively.
 
-Outcome
-Improved Sprint Goal achievement
-Reduced carryover
-Better visibility of unplanned work
-Earlier identification of dependencies
-Smaller and more manageable work items
-Team Behavior
-Increased collaboration
-Less individual task optimization
-More focus on the Sprint Goal
-More ownership of improvement experiments
-More constructive retrospective discussions
-Quality
-Earlier testing and feedback
-Reduced rework
-Better adherence to the Definition of Done
+### 4. Identify possible root causes
 
-## 17. What I Would Avoid
+Look beyond symptoms and avoid assuming that the first visible problem is the actual cause.
 
-As Scrum Master, I would avoid treating the situation as an individual performance problem.
+### 5. Select a focused improvement
 
-I would not:
+Agree on a practical experiment rather than introducing multiple process changes at once.
 
-❌ Pressure developers to increase output
+### 6. Inspect the result
 
-❌ Set velocity targets
+Look at what changed and what evidence is available.
 
-❌ Compare individual team members
+### 7. Adapt
 
-❌ Use velocity to evaluate performance
+Continue, modify, or replace the approach based on what was learned.
 
-❌ Automatically reduce estimates
+> **Inspect → Adapt → Improve**
 
-❌ Add more status meetings
+---
 
-❌ Ask the team to work overtime as the primary solution
+# 📊 Agile Metrics Perspective
 
-❌ Blame QA for incomplete stories
+I view Agile metrics primarily as **transparency and learning tools**, not as targets for teams.
 
-Instead, I would facilitate the team in identifying and addressing systemic constraints.
+Areas explored across the portfolio include:
 
-## 18. What I Would Learn From the Experiment
+* Sprint Goal achievement
+* Velocity trends
+* Burndown / Burnup
+* Carryover
+* Defect trends
+* Rework
+* Escaped defects
+* Work in Progress
+* Cycle time
+* Blockers
+* Dependencies
+* Improvement actions
 
-After the next Sprint, I would inspect:
+> **Metrics should help teams inspect their situation and adapt — not become targets that drive unhealthy behaviour.**
 
-Did the experiment improve Sprint Goal achievement?
+---
 
-If yes:
+# 🤖 AI & Modern Agile Practices
 
-→ Continue, inspect, and adapt.
+I am also exploring how AI can responsibly support Scrum Master activities.
 
-If partially successful:
+Potential areas include:
 
-→ Identify which constraint remains.
+* Sprint analysis
+* Agile metrics analysis
+* Retrospective preparation
+* Pattern identification
+* Blocker analysis
+* Action-item generation
+* Facilitation support
+* Improvement opportunity identification
 
-If unsuccessful:
+AI is treated as a **supporting tool, not a replacement for Scrum Master judgment or team context**.
 
-→ Revisit the root-cause hypothesis rather than immediately adding another process.
+---
 
-This supports the Scrum principle of:
+# 🎯 Skills Demonstrated Across the Portfolio
 
-Inspect → Adapt → Improve
+| Capability                 | Examples                                       |
+| -------------------------- | ---------------------------------------------- |
+| **Scrum Facilitation**     | Planning, Daily Scrum, Reviews, Retrospectives |
+| **Coaching**               | Team behaviour, collaboration, self-management |
+| **Stakeholder Management** | Product Owner and stakeholder collaboration    |
+| **Impediment Removal**     | Blockers, dependencies, systemic constraints   |
+| **Agile Metrics**          | Velocity, Sprint Goals, quality, flow          |
+| **Quality Mindset**        | Definition of Done, defects, rework            |
+| **Root Cause Analysis**    | Identifying underlying causes                  |
+| **Continuous Improvement** | Experiments, inspection, adaptation            |
+| **Conflict Facilitation**  | Difficult conversations and collaboration      |
+| **Scaling**                | Cross-team coordination and dependencies       |
+| **AI for Agile**           | AI-assisted analysis with human validation     |
 
-## 19. Scrum Master Skills Demonstrated
+---
 
-This case study demonstrates the following capabilities:
+# 📌 Portfolio Philosophy
 
-| Capability | Demonstrated Through |
-|---|---|
-| Facilitation | Root-cause analysis and retrospective |
-| Coaching | Story slicing and team behavior |
-| Servant Leadership | Removing systemic impediments |
-| Data-Driven Thinking | Sprint and flow metrics |
-| Stakeholder Management | Transparency around delivery risks |
-| Conflict Prevention | Avoiding blame-based discussions |
-| Continuous Improvement | One-Sprint experiment |
-| Scrum Knowledge | Sprint Goal, refinement, Daily Scrum, retrospective |
-| Quality Mindset | Definition of Done and early testing |
-| Systems Thinking | Looking beyond estimation |
+A Scrum Master's role is not simply to make Scrum events happen.
 
-## 20. Interview Discussion
-Interview Question
+The focus is on helping teams:
 
-"A Scrum Team has missed its Sprint Goal for three consecutive Sprints despite accurate estimation. What would you do?"
+**Make problems visible → Understand the situation → Collaborate → Experiment → Inspect → Adapt**
 
-My Answer
+These case studies are designed to demonstrate that way of thinking.
 
-"I would avoid assuming that estimation is the root cause. First, I would inspect the Sprint Goals, carryover, unplanned work, dependencies, blocked time, story size, refinement quality, and quality signals.
+---
 
-I would then facilitate a focused retrospective with the team to identify recurring systemic constraints.
+# 👩‍💼 About Me
 
-Based on the findings, I might focus on improving Sprint Goal clarity, slicing oversized stories, identifying dependencies earlier, making unplanned work visible, and encouraging earlier collaboration between development and QA.
+**Mounika Pulluru**
 
-I would select one or two improvements as a short-term experiment, define measurable success criteria, and inspect the results in the next Sprint.
+**Scrum Master | Agile Delivery | Team Facilitation | Servant Leadership**
 
-My goal would not be to increase velocity. My goal would be to help the team consistently achieve meaningful Sprint Goals while maintaining sustainable quality and flow."
+📍 Hyderabad, India
+💼 Immediate Joiner | Open to Remote
 
-## 21. Key Takeaway
+### Certification
 
-When a team repeatedly misses Sprint Goals, don't immediately optimize estimation. Inspect the system that produces the outcome.
+**Professional Scrum Master™ I (PSM I) — Scrum.org**
 
-A Scrum Master's role is to help the team:
+### Professional Background
 
-Make problems visible → Understand the system → Facilitate improvement → Experiment → Inspect → Adapt
+8+ years of IT experience spanning **Scrum facilitation, Agile delivery, Quality Assurance, and software delivery**.
 
-📌 Portfolio Note
+---
 
-This case study is intentionally designed as a scenario-based simulation to demonstrate Scrum Master reasoning and problem-solving.
+# 🔗 Connect With Me
 
-The scenario, metrics, improvement experiment, and expected results are illustrative and should not be interpreted as claims of specific client, employer, or production experience.
+* **LinkedIn:** [Mounika Pulluru](https://www.linkedin.com/in/mounika-p-838a3a339/)
+* **GitHub:** [mounikapulluru30](https://github.com/mounikapulluru30)
+* **Resume:** [View / Download My Resume](https://github.com/mounikapulluru30/resume)
+
+---
+
+# 📬 Open to Scrum Master Opportunities
+
+**Immediate Joiner | Hyderabad | Open to Remote**
+
+I am interested in opportunities where I can contribute to:
+
+**Agile Delivery • Scrum Facilitation • Team Effectiveness • Stakeholder Collaboration • Continuous Improvement**
+
+Thank you for visiting my portfolio.
+
+⭐ Explore the case studies above to see how I approach realistic Scrum Master scenarios.
